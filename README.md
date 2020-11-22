@@ -1,0 +1,2 @@
+# leetcode-zgq
+leetcode exercise
